@@ -5,7 +5,7 @@ packages <- c(
   'readr',
   'sf',
   'yaml',
-  'ggplot2',
+  'ggplot2'
 )
 # install/update packages
 install.packages(packages)
